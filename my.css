@@ -1,0 +1,37 @@
+body {
+  background-image: url(http://ppcdn.500px.org/75319705/1991f76c0c6a91ae1d23eb94ac5c7a9f7e79c480/2048.jpg);
+  background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			 background-blend-mode: lighten;
+  background-repeat: repeat-y;
+  text-align: center;
+  margin-top: 5%;
+  margin-bottom: 0%;
+}
+ main {
+   font-family: arial;
+   font-size: 20px;
+   background-color: lightblue;
+    opacity: 0.7;
+    margin: 15%;
+    padding: 5%;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;
+   text-align: left;
+   line-height: 35px;
+   
+    }
+#submit {
+background-color: lightgreen;
+   background-blend-mode: lighten;
+}
+
+h1, p {
+  color: yellow;
+}
+input, select, textarea {
+  font-size: 16px;
+}
